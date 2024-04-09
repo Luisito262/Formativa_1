@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HomeActivity">
+    <item
+        android:id="@+id/menu_item_temperatura"
+        android:title="Temperatura"
+        android:icon="@drawable/temperatura"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_color"
+        android:title="Cambio De Colores" />
+</menu>

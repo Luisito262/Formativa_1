@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Formativa</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="password">Digita tu password</string>
+    <string name="user">Digita su usuario</string>
+    <string name="botoningreso">INGRESAR</string>
+    <string name="botoncancelar">CANCELAR</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="aceptar_terminos">Terminos Y condiciones</string>
+    <string name="botonmatematica">Matematica</string>
+    <string name="botonfisica">Fisica</string>
+    <string name="botontexto">Texto</string>
+    <string name="botonsalir">Salir</string>
+    <string name="Informacion">Seleccione las siguientes opciones</string>
+    <string name="BotonCalcular">Calcular</string>
+    <string name="Ingresar_numero">Ingrese el numero</string>
+    <string name="Respuesta">Resultado</string>
+    <string name="Masa">Ingrese la masa</string>
+    <string name="Texto">Escriba algo</string>
+    <string name="Estilo1">Negrita</string>
+    <string name="Estilo2">Cursiva</string>
+    <string name="BotonAumentarTamaño">Tamaño</string>
+    <string name="BotonDisminuirTamaño">Disminuir</string>
+    <string name="Temperatura">Ingresa en grados celsius</string>
+    <string name="Tiempo">Ingrese la aceleracion</string>
+    <string name="BotonCambiarColor">Cambiar color</string>
+    <string-array name="temperature_units">
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+
+
+</resources>
